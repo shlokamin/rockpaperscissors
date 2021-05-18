@@ -7,3 +7,6 @@
 
 
 
+function displayValue(event){
+    document.getElementById("userChoice").innerText = document.getElementById("input").value
+}
